@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Neue Haas Display Pro";
-    src: url();
+    src: url(./font/NeueHaasDisplayBlack.ttf);
 }
 
 :root {
